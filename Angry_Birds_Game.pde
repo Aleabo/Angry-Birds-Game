@@ -1,6 +1,5 @@
 //Created by Aleabo
 //All rights go to their respective owners.
-//A total of 196 auto-formated lines of code!
 
 //This is to import the music player
 import ddf.minim.*;
