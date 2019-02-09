@@ -1,4 +1,3 @@
-//Created by Aleabo
 //All rights go to their respective owners.
 
 //This is to import the music player
